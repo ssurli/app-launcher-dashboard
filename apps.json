@@ -1,0 +1,64 @@
+{
+  "apps": [
+    {
+      "id": "estar-order",
+      "name": "ESTAR Order",
+      "description": "Gestione ordini ESTAR con import da Excel, tracking importi e verifica database locale.",
+      "icon": "📦",
+      "color": "#2563eb",
+      "tags": ["Flask", "Python", "SQLite"],
+      "category": "Gestionale",
+      "url": "",
+      "repo": "https://github.com/ssurli/estar-order",
+      "status": "active"
+    },
+    {
+      "id": "duvri-generator",
+      "name": "DUVRI Generator",
+      "description": "Generatore automatico di documenti DUVRI per gare d'appalto, con scenari normativi e gestione costi.",
+      "icon": "📄",
+      "color": "#059669",
+      "tags": ["Flask", "Python", "PythonAnywhere"],
+      "category": "Documenti",
+      "url": "https://surlinelli.pythonanywhere.com/admin",
+      "repo": "https://github.com/ssurli/duvri-generator",
+      "status": "active"
+    },
+    {
+      "id": "daily-briefing",
+      "name": "Daily Briefing",
+      "description": "Generazione automatica briefing giornalieri da email prioritarie e filtri mittenti.",
+      "icon": "📨",
+      "color": "#d97706",
+      "tags": ["Python", "Email", "Automation"],
+      "category": "Produttività",
+      "url": "",
+      "repo": "https://github.com/ssurli/daily-briefing",
+      "status": "active"
+    },
+    {
+      "id": "gestionale-ufficio-tecnico",
+      "name": "Ufficio Tecnico M365",
+      "description": "Gestionale Ufficio Tecnico integrato con Microsoft 365, funzionigramma e centri di costo.",
+      "icon": "🏢",
+      "color": "#7c3aed",
+      "tags": ["Microsoft 365", "Power Platform"],
+      "category": "Gestionale",
+      "url": "",
+      "repo": "https://github.com/ssurli/gestionale-ufficio-tecnico-microsoft365",
+      "status": "active"
+    },
+    {
+      "id": "gestionale-richieste-ts",
+      "name": "Richieste TS",
+      "description": "Gestionale multi-track per richieste tecnologie sanitarie con catalogo ESTAR e piano acquisti.",
+      "icon": "🏥",
+      "color": "#dc2626",
+      "tags": ["Next.js", "TypeScript", "Dataverse"],
+      "category": "Sanità",
+      "url": "",
+      "repo": "https://github.com/ssurli/gestionale_richieste_TS",
+      "status": "active"
+    }
+  ]
+}
