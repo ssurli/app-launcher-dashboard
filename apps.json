@@ -20,7 +20,7 @@
       "color": "#059669",
       "tags": ["Flask", "Python", "PythonAnywhere"],
       "category": "Documenti",
-      "url": "https://surlinelli.pythonanywhere.com/admin",
+      "url": "https://surlinelli.pythonanywhere.com/login?next=https://surlinelli.pythonanywhere.com/admin",
       "repo": "https://github.com/ssurli/duvri-generator",
       "status": "active"
     },
