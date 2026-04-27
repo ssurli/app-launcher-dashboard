@@ -8,7 +8,7 @@
       "color": "#2563eb",
       "tags": ["Flask", "Python", "SQLite"],
       "category": "Gestionale",
-      "url": "",
+      "url": "http://localhost:5001/ordini/dashboard",
       "repo": "https://github.com/ssurli/estar-order",
       "status": "active"
     },
